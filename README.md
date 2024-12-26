@@ -15,4 +15,6 @@
 - git commit -m "เพิ่มส่วนแสดงคุณสมบัติพร้อมการ์ด"
 - git add .
 - git commit -m "เพิ่มส่วนท้ายแบบ Responsive"
+- git add .
+- git commit -m "comparison"
 - git push
